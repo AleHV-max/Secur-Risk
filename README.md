@@ -1,8 +1,18 @@
-# AuditSec Executive
+# AuditSec Executive: Technology Risk & Incident Assurance Dashboard
 
-**Technology Risk & Incident Assurance Dashboard** es un panel ejecutivo de archivo único para simular escenarios de riesgo tecnológico, revisar controles y generar un dictamen imprimible.
+## Problemática
 
-## Funcionalidades
+Las organizaciones y sus auditores necesitan valorar incidentes tecnológicos, entender la exposición financiera potencial y revisar si las medidas de respuesta reducen el riesgo. Sin una vista consolidada, es difícil comparar escenarios críticos y comunicar hallazgos y prioridades de mitigación a responsables ejecutivos. Además, seleccionar un control no basta para demostrar que está correctamente diseñado y opera de forma efectiva: la evaluación real requiere evidencia verificable.
+
+## Usuario objetivo
+
+La aplicación está dirigida a auditores de tecnología y riesgo, responsables de seguridad de la información, equipos de respuesta a incidentes y directivos que necesiten revisar escenarios de riesgo TI en un formato ejecutivo. También puede utilizarse con fines educativos. No sustituye una auditoría formal, la evaluación de especialistas ni el asesoramiento legal o financiero.
+
+## Objetivo de la solución
+
+**AuditSec Executive** busca facilitar la simulación y comunicación de escenarios de incidentes tecnológicos mediante un panel de una sola página. Permite relacionar escenarios con marcos de control, comparar el riesgo inherente con el residual al seleccionar medidas de mitigación y generar recomendaciones y un reporte imprimible para apoyar la toma de decisiones. Sus cálculos son indicativos y deben validarse con datos y evidencia de la organización auditada.
+
+## Funcionalidades principales
 
 - Datos editables de la organización auditada, período de evaluación y auditor líder.
 - Tres escenarios corporativos con severidad, coste de inactividad por hora, multa potencial, riesgo de 0 a 100 y referencias a marcos de control:
