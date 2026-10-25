@@ -31,8 +31,6 @@ La puntuación 5×5 es una representación visual normalizada del riesgo de 0 a 
 
 ## Despliegue en GitHub Pages
 
-El sitio puede publicarse desde la raíz de la rama o carpeta configurada para GitHub Pages, ya que la aplicación no utiliza un proceso de compilación.
+El repositorio publica el sitio directamente desde la raíz de la rama `main`. No se requiere proceso de compilación.
 
-**URL del sitio:** [Abrir AuditSec Executive en GitHub Pages](https://TU-USUARIO.github.io/TU-REPOSITORIO/)
-
-Reemplaza `TU-USUARIO` y `TU-REPOSITORIO` por los valores reales una vez publicado el sitio. Este enlace es un marcador de posición; no se ha verificado una publicación.
+**Sitio publicado:** [Abrir AuditSec Executive en GitHub Pages](https://alehv-max.github.io/Secur-Risk/)
